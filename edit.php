@@ -7,8 +7,7 @@
 	<meta name="description" content="Ajax PHP CRUD System">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Ajax PHP CRUD</title>
-	<link rel="stylesheet" href="../all_lib/css/bootstrap.min.css">
-	<link rel="stylesheet" href="../mytest/css/font-awesome.min.css">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
 </head>
 <body style="font-family:roboto,sans-serif;">
 	<div class="container-fluid py-4" style="background:linear-gradient(to right, rgb(111, 207, 242), rgb(4, 147, 135));">
@@ -45,6 +44,6 @@
 	</div>
 </div>
 </body>
-<script src="../all_lib/js/jquery-3.3.1.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 <script src="js/edit.js"></script>
 </html>
